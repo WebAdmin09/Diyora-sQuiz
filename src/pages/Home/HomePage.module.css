@@ -1,0 +1,44 @@
+.name {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.move {
+    border: 10px solid #ffa811;
+    max-width: 600px;
+    min-width: 645px;
+    max-height: 300px;
+    min-height: 351px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.bear {
+    max-width: 200px;
+    max-height: 200px;
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+.title {
+    position: absolute;
+    top: 25px;
+    left: 270px;
+    max-width: 200px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.gap {
+    max-width: 250px;
+    min-width: 350px;
+    max-height: 200px;
+    position: absolute;
+    top: 0;
+    left: 190px;
+}
